@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115654323471",
+    "project_id": "flojicsmovie",
+    "storage_bucket": "flojicsmovie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115654323471:android:11b21b2a2d8dae8a9d227a",
+        "android_client_info": {
+          "package_name": "com.example.movie_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115654323471-l3b6chpqr9bgvdk6srqvmq1djqa6ljkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo1odniw50435Q350OMFwEWiwzG738U2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115654323471-l3b6chpqr9bgvdk6srqvmq1djqa6ljkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
