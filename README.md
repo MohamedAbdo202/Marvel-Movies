@@ -17,12 +17,19 @@ Steps To Run The Project:
 ## Getting Started
 
 Its Marvel Movie App
+
 • APIs
+
 • Register • Login Using Firbase
+
 • Paggination for the data  to display 5 items  and when scroll load more
+
 • Create Function To Get Related Movies By Compare First Title Name of Each Movie
+
 • Details Page For information of The Movies
+
 • Used SharedPrefrences To Store The data From Api to get it if There is No Internet Connection
-• responsive for Mobiles. Developed using Dart, Flutter, API, Firebase ,Cubit,Clean Architecture.
+
+• responsive for Mobiles. Developed using Dart, Flutter, API, Firebase ,Cubit,Clean Architecture,injection.
 
 Link Video: https://drive.google.com/file/d/1dfWDfZYnRgn3pb3YuqN9mzRr2DnLpQ6a/view?usp=drive_link
