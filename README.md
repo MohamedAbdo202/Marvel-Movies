@@ -1,16 +1,22 @@
 # FlojicsTask
 
-A new Flutter project.
+Steps tO Run The Project:
+1- Download the code from Github Folder.ZIP
+2-Extract The Folder
+3-Open Android Studio And Press Open and Choose The Folder of The Project
+4-Oen Terminal and Enter flutter pub get
+5-Open Emulator 
+6-Run The project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Its Marvel Movie App
+• APIs
+• Register • Login Using Firbase
+• Paggination for the data  to display 5 items  and when scroll load more
+• Create Function To Get Related Movies By Compare First Title Name of Each Movie
+• Details Page For information of The Movies
+• Used SharedPrefrences To Store The data From Api to get it if There is No Internet Connection
+• responsive for Mobiles. Developed using Dart, Flutter, API, Firebase ,Cubit,Clean Architecture.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link Video: https://drive.google.com/file/d/1dfWDfZYnRgn3pb3YuqN9mzRr2DnLpQ6a/view?usp=drive_link
