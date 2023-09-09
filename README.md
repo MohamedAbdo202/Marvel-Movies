@@ -1,4 +1,4 @@
-# movie_task
+# FlojicsTask
 
 A new Flutter project.
 
