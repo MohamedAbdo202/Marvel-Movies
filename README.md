@@ -29,6 +29,9 @@ Its Marvel Movie App
 • Details Page For information of The Movies
 
 • Used SharedPrefrences To Store The data From Api to get it if There is No Internet Connection
+Data Caching: Whenever our app retrieves data from a API, we first check If there is an internet connection,
+SharedPreferences: Simultaneously, we store a copy of this fetched data in SharedPreferences. 
+This local storage mechanism allows us to access the data quickly, without the need for an internet connection.we fetch and display
 
 • responsive for Mobiles. Developed using Dart, Flutter, API, Firebase ,Cubit,Clean Architecture,injection.
 
