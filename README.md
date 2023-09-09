@@ -22,7 +22,7 @@ Its Marvel Movie App
 
 • Register • Login Using Firbase
 
-• Paggination for the data  to display 5 items  and when scroll load more
+• Pagination  for the data  to display 5 items  and when scroll load more
 
 • Create Function To Get Related Movies By Compare First Title Name of Each Movie
 
